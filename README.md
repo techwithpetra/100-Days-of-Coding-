@@ -16,4 +16,5 @@ Day 1 - 1st July
 
 Day 2 - 2nd July 
 - Continued with AWS course going over EC2 instances amd solution architect module 
+- 
 
