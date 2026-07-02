@@ -13,6 +13,7 @@ Day 1 - 1st July
 - Statement JSON documents that consists of Effect, Action, Resource and Principal
 - Security tool - account level is credentials report, whose accessed what when on a user level to see what services being used access advisor/ last accessed tab is available
 - MFA provides extra layer of security.
+
 Day 2 - 2nd July 
 - Continued with AWS course going over EC2 instances amd solution architect module 
 
