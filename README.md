@@ -17,7 +17,9 @@ Day 1 - 1st July
 Day 2 - 2nd July 
 - Continued with AWS course going over EC2 instances amd solution architect module 
 
-Day 3 - Github action work and continued aws course
+Day 3 - 3rd July
+- Github action work and continued aws course
 
-Day 4 - Continued with AWS course
+Day 4 - 4th July 
+- Continued with AWS course
 
