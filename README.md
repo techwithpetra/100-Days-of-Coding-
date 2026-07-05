@@ -1,4 +1,4 @@
-# 100-Days-of-Coding- 1st July - 9th October 
+i# 100-Days-of-Coding- 1st July - 9th October 
 
 Day 1 - 1st July 
 - Started an AWS Course on Udemy I revisted the contents of that
@@ -22,4 +22,7 @@ Day 3 - 3rd July
 
 Day 4 - 4th July 
 - Continued with AWS course
+
+day 5 - 
+- AWS Solution architect course continued 
 
