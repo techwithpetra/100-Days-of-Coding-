@@ -27,3 +27,4 @@ day 5 - 5th July
 - AWS Solution architect course continued 
 Day 6 - 6th July 
 - Worked on CI/CD pipelines with Github Actions 
+day 7 
