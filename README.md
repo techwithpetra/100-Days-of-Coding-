@@ -36,3 +36,7 @@ Day 8 - 8th July
 - Slack integrationnin cicd oipelines 
 - Devops video 101
 
+Day 9 - 9th July 
+- DevOps video 101 
+- AWS AppConfig 
+
