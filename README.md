@@ -32,3 +32,7 @@ Day 6 - 6th July
 Day 7 - 7th July 
 - Github Runners overview 
 
+Day 8 - 8th July 
+- Slack integrationnin cicd oipelines 
+- Devops video 101
+
