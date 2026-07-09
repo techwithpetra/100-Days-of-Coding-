@@ -38,5 +38,5 @@ Day 8 - 8th July
 
 Day 9 - 9th July 
 - DevOps video 101 
-- AWS AppConfig 
+- AWS AppConfig - Learnt that Codepipine is for sofrware code deployment build package amd artifact but for runtime configuration changes thats the benefits of this service. 
 
