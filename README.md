@@ -33,10 +33,13 @@ Day 7 - 7th July
 - Github Runners overview 
 
 Day 8 - 8th July 
-- Slack integrationnin cicd oipelines 
+- Slack integration cicd pipelines 
 - Devops video 101
 
 Day 9 - 9th July 
 - DevOps video 101 
 - AWS AppConfig - Learnt that Codepipine is for sofrware code deployment build package amd artifact but for runtime configuration changes thats the benefits of this service. 
+
+Day 10 - 10th July 
+- Gothub Actions revision 
 
