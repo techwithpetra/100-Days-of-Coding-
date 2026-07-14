@@ -43,3 +43,16 @@ Day 9 - 9th July
 Day 10 - 10th July 
 - Gothub Actions revision 
 
+Day 11 - 11th July 
+- Listened to DevOps video 101 
+
+Day 12 - 12 th July 
+- Listened to Devops video 
+- Updated music site for client 
+
+Day 13 - 13th July 
+- continued learning about github actions 
+
+Day 14 - 14th July 
+- continued with giyhub action learning 
+created action folder for reuaable workflows 
