@@ -56,3 +56,34 @@ Day 13 - 13th July
 Day 14 - 14th July 
 - continued with giyhub action learning 
 created action folder for reuaable workflows 
+
+Day 15 - 15 th July 
+- continued with Github actions, learnt that of using workcall and calling from the caller workflow must add secrets inherit to run the secrets in the called workflow 
+
+Day 16 - 16th July 
+- Github action work 
+- learnt that if you make changes to commit them tk the release branch as when you tag ot womt get picked up 
+- to add changes you can use got cherry pick 
+
+Day 17 - 17th July 
+- Aws Learning 
+- Learn in ec2 target group you can adjust deregister delay time in 
+- Also ensure your application handles SIGTERM correctly so it stops accepting new requests and exits cleanly during that drain period.
+
+Day 18 - 18th July 
+- Read blog on Devops 
+- Devops builds culture but platfrom engineering scales it
+- Devops can be ticket driven and individual contribution minded
+- Platform develops internal platforms 
+- A place where developers can: create environments deploy applications manage secrets view logs request infrastructure follow security rules rollback safely
+ship faster without needing to know every detail of Kubernetes, Terraform, IAM, Helm, or AWS.
+
+Day 19 - 19th July 
+- Read blog on devips vs playform ebgineering 
+- platform engineering provides tools to enable developers to provision the cloud infrastructure they need 
+
+Day 20 - 20th July 
+- Security Engineering in AWS 
+- Iam policies learnt  
+- AWS Configure can be used to track changes that terraform or and iac tool makes
+ 
