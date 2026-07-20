@@ -1,4 +1,4 @@
-i# 100-Days-of-Coding- 1st July - 9th October 
+# 100-Days-of-Coding- 1st July - 9th October 
 
 Day 1 - 1st July 
 - Started an AWS Course on Udemy I revisted the contents of that
