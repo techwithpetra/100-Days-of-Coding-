@@ -86,4 +86,18 @@ Day 20 - 20th July
 - Security Engineering in AWS 
 - Iam policies learnt  
 - AWS Configure can be used to track changes that terraform or and iac tool makes
+
+Day 21 - 21st July 
+- Security in Engineering AWS Course 101
+
+Day 22 - 22nd July 
+- Security in Engineering AWS Course 
+- Final day learnt about VPC Peering, GuardDuty, AWS Config in more detail, 
+- Learnt about aggregates in AWS config so that you can see a comprehensive view of all resources made in AWS 
+
+Day 23 - 23rd July 
+- Continued to work on Github action learnt that gh github CLI
+- It needs to be installed on self hosted runners if gh is not there then alternatively 
+curl can be used. But that requires a GH_TOKEN, to be included . 
+This can be added if you include it in the env simply by adding secrets.github_token
  
